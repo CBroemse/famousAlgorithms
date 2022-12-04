@@ -1,2 +1,2 @@
 # famousAlgorithms
-#Math #WxMaxima #classics
+#Math #Maxima #classics
